@@ -23,7 +23,7 @@
 					if (xhr.status == 200) {
 
 					}
-				}
+				} 
 			}
 
 			var formData = new FormData();
